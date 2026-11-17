@@ -1,0 +1,26 @@
+PUBLICAÇÃO NO GITHUB PAGES
+
+Configuração preparada com base no endereço do exemplo enviado:
+Usuário: jeanalencar75
+Repositório: cadastro-futsal-trindade
+Se usar outro usuário ou nome de repositório, substitua todas as ocorrências do endereço https://jeanalencar75.github.io/cadastro-futsal-trindade/ no index.html antes de publicar.
+
+1. Extraia o ZIP no computador.
+2. Acesse github.com e crie um repositório público chamado cadastro-futsal-trindade.
+3. Use Add file > Upload files e envie index.html e capa.jpg diretamente na raiz do repositório. Não envie o ZIP nem uma pasta contendo os arquivos.
+4. Confirme em Commit changes.
+5. Abra Settings > Pages. Em Build and deployment, selecione Deploy from a branch. Selecione main e /(root), depois Save.
+6. Aguarde a publicação e confira o endereço informado pelo próprio GitHub Pages.
+
+Endereço esperado (só funciona após publicar):
+https://jeanalencar75.github.io/cadastro-futsal-trindade/
+
+Imagem para teste:
+https://jeanalencar75.github.io/cadastro-futsal-trindade/capa.jpg
+
+Cole o link da página no WhatsApp e espere carregar a prévia antes de enviar. Se necessário teste pelo celular e use ?v=1 ao final do link para tentar atualizar uma prévia em cache.
+
+Ao abrir a página no navegador, ela encaminha para o formulário original após 1,5 segundo. Há um botão alternativo se o encaminhamento falhar ou o JavaScript estiver desabilitado. O cadastro continua no servidor original, que precisa estar acessível.
+
+O GitHub Pages hospeda apenas a página de divulgação e a capa. Não envie código PHP, configurações do banco ou o ZIP completo do sistema para o repositório público.
+A exibição da prévia depende do WhatsApp e só pode ser validada após a publicação.
